@@ -263,9 +263,35 @@ button[type="submit"]:hover {
 .footer-head{
   font-family: "Inter", sans-serif;
   color: #4E47FF;
-  font-size: 100;
+  font-size: 100px;
+  margin: 0;
 
 }
+.footer{
+  text-align: center;
+  max-width: 531px;
+  margin: 104px auto;
+  background-color: #ffffff;
+  padding: 50px;
 
-
+}
+ul{
+  display: flex;
+  gap: 48px;
+}
+.footer-description{
+  color: #8987A1;
+}
+li{
+  list-style: none;
+}
+a{
+  color: #8987A1;
+  text-decoration: none;
+}
+footer{
+  max-width: 100%;
+  background-color: #ffffff;
+  padding: ;
+}
 
